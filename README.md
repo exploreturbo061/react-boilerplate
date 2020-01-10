@@ -1,6 +1,6 @@
-# React random shiba
+# Project name
 
-This is a simple react boilerplate.
+This is a project description.
 
 ## Getting Started
 
@@ -19,12 +19,12 @@ yarn or npm
 
 2. Install server dependencies
     ```bash
-    $ cd react-boilerplate
+    $ cd location
     $ yarn add
     ```
     or
     ```bash
-    $ cd react-boilerplate
+    $ cd location
     $ npm install
     ```
 
@@ -32,12 +32,12 @@ yarn or npm
 
 1. Start the server
     ```bash
-    $ cd react-boilerplate
+    $ cd location
     $ yarn start
     ```
     or
     ```bash
-    $ cd react-boilerplate
+    $ cd location
     $ npm start
     ```
 2. Browse to `http://localhost:3000/`
